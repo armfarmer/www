@@ -8,8 +8,8 @@
         <p>my nickname is arm</p>
         <h2>แนะนำตัว</h2>
         <p>สวัดดีผมชื่อ กฤษณ์พิพัฒน์ ทองธรรมชาติ ชื่อเล่น อาร์ม</p>
-        <img scr="a.png">
-        <img scr="b.png">
+        <img scr="a.jpg">
+        <img scr="b.jpg">
         <br>
         <h2><a href="http://www.youtube.com">this is my favourite link</a></h2>
         
